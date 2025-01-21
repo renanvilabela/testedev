@@ -22,27 +22,37 @@ Questões
 
 1. Cálculo da Soma de um Valor
 Objetivo: Calcular a soma de um valor utilizando um loop.
+
 Arquivo HTML: firstquesion.html
+
 Arquivo JavaScript: firstquestion.js
 Como Testar: Abra o arquivo firstquestion.html no navegador e observe o valor da soma.
 2. Sequência de Fibonacci
 Objetivo: Calcular a sequência de Fibonacci e verificar se um número pertence a ela.
+
 Arquivo HTML: secondquestion.html
+
 Arquivo JavaScript: secondquestion.js
 Como Testar: Abra o arquivo secondquestion.html no navegador, insira um número e clique para verificar se ele pertence à sequência de Fibonacci.
 3. Faturamento Mensal
 Objetivo: Calcular o menor e maior faturamento do mês e contar os dias com faturamento acima da média.
+
 Arquivo HTML: thirdquestion.html
+
 Arquivo JavaScript: thirdquestion.js
 Como Testar: Abra o arquivo thirdquestion.html no navegador e veja os resultados na página.
 4. Percentual de Representação por Estado
 Objetivo: Calcular o percentual de faturamento de cada estado dentro do valor total mensal.
+
 Arquivo HTML: fourthquestion.html
+
 Arquivo JavaScript: fourthquestion.js
 Como Testar: Abra o arquivo fourthquestion.html no navegador e veja os percentuais de cada estado.
 5. Inverter uma String
 Objetivo: Inverter os caracteres de uma string.
+
 Arquivo HTML: fifthquestion.html
+
 Arquivo JavaScript: fifithquestion.js
 Como Testar: Abra o arquivo fifithquestion.html no navegador, digite uma string e clique em "Inverter". O resultado será exibido logo abaixo.
 
